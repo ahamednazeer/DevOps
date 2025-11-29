@@ -2,7 +2,7 @@
 <h3 align="center">🚀 DevOps Engineer | Cloud | Kubernetes | Automation</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ahamednazeer&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
