@@ -1,1 +1,76 @@
-# DevOps
+<h1 align="center">Hi 👋, I'm Syedahamed</h1>
+<h3 align="center">🚀 DevOps Engineer | Cloud | Kubernetes | Automation</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🔧 DevOps Engineer focused on **Cloud Infrastructure & Automation**
+- ☁️ Working with **AWS, Docker, Kubernetes**
+- 📊 Strong in **Monitoring, Logging & Security**
+- ⚡ Love building **Self-Healing & Scalable Systems**
+- 📍 Based in **India**
+
+---
+
+## 🛠 Tech Stack (Current Industry Trend)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-000?style=for-the-badge&logo=ansible)
+
+### 🔄 CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=github-actions)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-000?style=for-the-badge&logo=gitlab)
+![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=jenkins)
+
+### 📊 Monitoring & Logs
+![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana)
+![ELK](https://img.shields.io/badge/ELK-000?style=for-the-badge&logo=elastic)
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![CouchDB](https://img.shields.io/badge/CouchDB-000?style=for-the-badge&logo=apache-couchdb)
+
+---
+
+## 🚀 Featured DevOps Projects (Trend-Based)
+
+| Project | Description |
+|---------|-------------|
+| 🔹 Kubernetes Production Setup | High availability clusters |
+| 🔹 CI/CD Automation | GitHub + Jenkins pipelines |
+| 🔹 Monitoring Stack | Prometheus + Grafana |
+| 🔹 Backup Automation | DB + Server backup scripts |
+| 🔹 Docker Self-Healing | Auto-restart containers |
+
+---
+
+## 📈 GitHub Analytics (Trending Visuals)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" width="48%"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">LinkedIn</a> |
+  <a href="mailto:ahamednazeer202@gmail.com">Email</a>
+</p>
+
+---
+
+⭐ **"Automate Everything. Monitor Everything."**
