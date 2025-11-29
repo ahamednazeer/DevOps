@@ -58,8 +58,8 @@
 ## 📈 GitHub Analytics (Trending Visuals)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahamednazeer&show_icons=true&theme=dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamednazeer&layout=compact&theme=dark" width="48%"/>
 </p>
 
 ---
